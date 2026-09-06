@@ -1,0 +1,6 @@
+source/node_modules/
+source/.next/
+source/out/
+source/tsconfig.tsbuildinfo
+_site/
+.DS_Store

@@ -1,0 +1,63 @@
+{
+  "published": [
+    {
+      "year": 2026,
+      "authors": "Kim, B., & Jeong, Y.",
+      "title": "Developmental Trajectories and Prospective Associations Between Life Satisfaction and Perceived Parental Autonomy Support During Adolescence",
+      "venue": "Journal of Adolescence",
+      "status": "published",
+      "doi": "https://doi.org/10.1002/jad.70256",
+      "featured": true
+    },
+    {
+      "year": 2025,
+      "authors": "Kim, B., & Shin, J.",
+      "title": "School Adjustment Moderates Character Strengths Interventions in Korean Elementary Schools",
+      "venue": "International Journal of Applied Positive Psychology, 10, Article 68",
+      "status": "published",
+      "doi": "https://doi.org/10.1007/s41042-025-00263-9",
+      "featured": true
+    },
+    {
+      "year": 2024,
+      "authors": "Kim, B., & Shin, J.",
+      "title": "Students’ Strengths Use and Engagement: Exploring the Mediating Role of Basic Psychological Needs",
+      "venue": "Cambridge Educational Research e-Journal, 11, 129–142",
+      "status": "published",
+      "doi": "https://doi.org/10.17863/CAM.114526",
+      "featured": false
+    }
+  ],
+  "accepted_or_ongoing": [
+    {
+      "authors": "Kim, B., & McLellan, R.",
+      "title": "Developing the STARR Framework of Gratitude Among South Korean Adolescents",
+      "venue": "Cambridge Journal of Education",
+      "status": "accepted"
+    },
+    {
+      "authors": "Kim, B., & McLellan, R.",
+      "title": "Exploring Gratitude Experiences Among South Korean Adolescents",
+      "venue": "Journal of Adolescent Research",
+      "status": "revised_and_resubmitted"
+    },
+    {
+      "authors": "Kim, B., & McLellan, R.",
+      "title": "Can Generative AI Cultivate Gratitude?",
+      "venue": "AI & Society",
+      "status": "revised_and_resubmitted"
+    },
+    {
+      "authors": "Kim, B., & McLellan, R.",
+      "title": "From Receiving to Responding: A Phenomenological Study of Gratitude in Korean Middle-School Students",
+      "venue": "Asia Pacific Education Review",
+      "status": "under_review"
+    },
+    {
+      "authors": "Kim, B., & McLellan, R.",
+      "title": "Parental Autonomy Support, Parental Control, and Academic Helplessness: Stable Family Differences and Within-Adolescent Dynamics",
+      "venue": "Journal of Educational Psychology",
+      "status": "under_review"
+    }
+  ]
+}
