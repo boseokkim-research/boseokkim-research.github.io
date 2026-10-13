@@ -1,6 +1,14 @@
 {
   "published": [
     {
+      "authors": "Kim, B., & McLellan, R.",
+      "title": "Developing the STARR Framework of Gratitude Among South Korean Adolescents",
+      "venue": "Cambridge Journal of Education",
+      "status": "published",
+      "year": 2026,
+      "doi": "https://doi.org/10.1080/0305764X.2026.2727148"
+    },
+    {
       "year": 2026,
       "authors": "Kim, B., & Jeong, Y.",
       "title": "Developmental Trajectories and Prospective Associations Between Life Satisfaction and Perceived Parental Autonomy Support During Adolescence",
@@ -28,35 +36,25 @@
       "featured": false
     }
   ],
-  "accepted_or_ongoing": [
-    {
-      "authors": "Kim, B., & McLellan, R.",
-      "title": "Developing the STARR Framework of Gratitude Among South Korean Adolescents",
-      "venue": "Cambridge Journal of Education",
-      "status": "accepted"
-    },
+  "ongoing": [
     {
       "authors": "Kim, B., & McLellan, R.",
       "title": "Exploring Gratitude Experiences Among South Korean Adolescents",
-      "venue": "Journal of Adolescent Research",
       "status": "revised_and_resubmitted"
     },
     {
       "authors": "Kim, B., & McLellan, R.",
       "title": "Can Generative AI Cultivate Gratitude?",
-      "venue": "AI & Society",
       "status": "revised_and_resubmitted"
     },
     {
       "authors": "Kim, B., & McLellan, R.",
       "title": "From Receiving to Responding: A Phenomenological Study of Gratitude in Korean Middle-School Students",
-      "venue": "Asia Pacific Education Review",
-      "status": "under_review"
+      "status": "revised_and_resubmitted"
     },
     {
       "authors": "Kim, B., & McLellan, R.",
       "title": "Parental Autonomy Support, Parental Control, and Academic Helplessness: Stable Family Differences and Within-Adolescent Dynamics",
-      "venue": "Journal of Educational Psychology",
       "status": "under_review"
     }
   ]

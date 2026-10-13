@@ -5,3 +5,5 @@ html{scroll-behavior:auto}body{font-family:-apple-system,BlinkMacSystemFont,'Seg
 /* Self-hosted Pretendard v1.3.9 for Korean typography. */
 @font-face{font-family:'Pretendard Variable';src:url('/fonts/pretendard/PretendardVariable.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap}
 html[lang=ko] body,html[lang=ko] h1,html[lang=ko] h2,html[lang=ko] h3,html[lang=ko] .lead,html[lang=ko] .lead-small,html[lang=ko] .wordmark,html[lang=ko] .hero h1 span,html[lang=ko] .number,[lang=ko] .wordmark span,.wordmark span[lang=ko],.hero h1 span[lang=ko],.language a[lang=ko]{font-family:'Pretendard Variable',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+
+.supervision{font-size:.875rem;color:var(--muted)}
