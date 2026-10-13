@@ -1,17 +1,18 @@
-# Website update — 13 October 2026
+# Website review and update — 13 October 2026
 
-Both language versions and the web CV have been updated from the owner’s supplied corrections.
+Reviewed the supplied ZIP and updated both language versions.
 
-- Removed the explanatory caveat paragraphs from all three research programme entries in both languages. Study descriptions, methods and article links remain.
-- Revised the requested Korean punctuation, research headings and link labels, with corresponding natural English wording.
-- Moved the STARR paper to published articles with its DOI. Removed publication-status badges from research pages and homepage.
-- Set the Asia Pacific Education Review manuscript to revised and resubmitted. Journal names are removed from all four ongoing manuscript records.
-- Updated teaching roles, the 논리야 놀자 programme, and the learning-science project including Youthpreneur evaluation. Removed the further-research section from About; retained visiting-research experience in CV with participation wording.
-- Changed doctorate dates to 2023–2026 and recorded thesis approval. Added thesis titles and supervision details; removed the undergraduate honours classification.
-- Added the completed July 2026 presentation. The date and venue follow the owner’s supplied information.
-- Added social service at the Incheon District Prosecutors’ Office, October 2026–July 2028 (expected), to About and CV in both languages. The homepage stays focused on research. Updated current-biography wording and structured data to avoid implying a current Cambridge appointment.
-- Renamed the Korean CV navigation and heading. Removed the scholarship count. Removed the PDF download and all PDF copies from the package.
+- Removed the requested homepage taglines and earlier-university-research paragraphs.
+- Removed the eight-session supervision detail from Teaching and the web CV in both languages.
+- Combined About and CV into one academic profile: a short introduction followed by the complete CV. The menu label is CV in English and 소개 in Korean.
+- Retained every education, research/project, teaching, presentation, award/funding and service record, thesis title, supervisor/advisor, supervised module, and professional profile link from the supplied package. Added the existing research communication item to the complete web CV.
+- Retained newest-first dated lists and the compact service entry at the bottom.
+- Removed duplicate homepage/profile links. The canonical profile URLs are /cv/ and /ko/cv/. Old /about/ URLs remain available as static redirects; the sitemap lists canonical content pages.
+- Corrected Korean page description metadata and the homepage section-label styling after the tagline removal.
+- Rebuilt the static export from a fresh build directory so obsolete build assets are excluded.
 
-Replace the previous deployment files. If uploading over an existing repository, delete both old Boseok_Kim_CV.pdf files (root and source/public) explicitly; uploading a ZIP’s contents does not delete existing files.
+Validation covers source type checking, static generation, page and asset paths, section anchors, requested removals, complete CV records, bilingual navigation and legacy profile routes. Personal academic facts are retained from the supplied files and owner corrections; this review is not independent credential verification.
 
-The package is prepared for https://boseokkim-research.github.io. It has not been uploaded to GitHub or deployed there.
+The ZIP contains ready-to-deploy files at the root and editable source. PDF downloads, private context, signatures and draft infographics are excluded. GitHub has not been modified.
+
+Extract the ZIP and replace the repository contents with the enclosed files and folders. Do not upload the ZIP itself or an extra enclosing folder. Preserve your local .git folder. If old PDF files remain in the repository, remove them separately: uploading new files does not delete them.
