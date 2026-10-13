@@ -1,0 +1,5 @@
+"use client";
+import {siteHref} from './site-links';
+
+import {usePathname} from 'next/navigation';
+export default function Navigation({ko=false}:{ko?:boolean}){const path=usePathname().replace(/^\/ko(?=\/|$)/,'').replace(/\/$/,'').replace(/^\/about$/,'/cv')||'/';return <div className="navigation"><nav aria-label={ko?'주 메뉴':'Main navigation'}>{[['Research','연구','research'],['Publications','논문','publications'],['Teaching','교육','teaching'],['CV','소개','cv']].map(([en,kr,slug])=><a key={slug} href={siteHref((ko?'/ko':'')+'/'+slug+'/')} aria-current={path==='/'+slug?'page':undefined}>{ko?kr:en}</a>)}</nav><nav className="language" aria-label={ko?'언어 선택':'Language'}><a lang="en" hrefLang="en" href={siteHref(path==='/'?'/':path+'/')} aria-current={!ko?'page':undefined}>EN</a><a lang="ko" hrefLang="ko" href={siteHref('/ko'+(path==='/'?'/':path+'/'))} aria-current={ko?'page':undefined}>한국어</a></nav></div>}
