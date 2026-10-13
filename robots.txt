@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://boseokkim-research.github.io/sitemap.xml
